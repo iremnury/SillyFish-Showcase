@@ -180,7 +180,7 @@ The environment includes layers such as:
 
 A gameplay video is available here:
 
-**[Watch Gameplay Demo](YOUR_VIDEO_LINK_HERE)**
+**[Watch Gameplay Demo](https://youtu.be/5HkdZnG7HCc?si=Q3vpCImaVFR5pfUM)**
 
 ---
 
