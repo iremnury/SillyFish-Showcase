@@ -1,7 +1,7 @@
 # 🐟 Silly Fish
 
 <p align="center">
-  <img src="gifs/gameplay.gif" alt="Silly Fish Gameplay" width="800">
+  <img src="gifs/IMG_8975.GIF" alt="Silly Fish Gameplay" width="800">
 </p>
 
 **Silly Fish** is a 2D mobile arcade game currently in development with **Unity and C#**.
