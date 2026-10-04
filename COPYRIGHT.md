@@ -1,13 +1,15 @@
 # Copyright Notice
 
-Copyright © 2026 İremnur Yıldız.
+Copyright © 2026 İremnur Yıldız.  
+Game development, programming, gameplay systems, and technical implementation.
 
-All rights reserved.
+Copyright © 2026 Aslı Özdemir.  
+Original artwork, character designs, animations, and visual assets.
 
-The game concept, visual assets, characters, artwork, screenshots, animations, gameplay presentation, and other original materials related to **Silly Fish** contained in this repository are the property of the copyright holder unless otherwise stated.
+All rights reserved by their respective creators.
 
 This repository is provided for portfolio and demonstration purposes only.
 
-No permission is granted to reproduce, redistribute, modify, publish, sell, sublicense, or commercially use the original assets or materials contained in this repository without prior written permission from the copyright holder.
+No permission is granted to reproduce, redistribute, modify, publish, sell, sublicense, or commercially use the protected materials contained in this repository without prior written permission from the respective rights holder.
 
-The complete source code and Unity project are not included in this public repository.
+The complete source code, Unity project, scenes, prefabs, and original source art files are not included in this public repository.
