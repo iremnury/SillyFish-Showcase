@@ -310,7 +310,7 @@ Source access may be provided privately for technical review when appropriate.
 Computer Engineering Student  
 Boğaziçi University
 
-[GitHub](github.com/iremnury) · [LinkedIn](www.linkedin.com/in/iremnur-yildiz)
+[GitHub](https://github.com/iremnury) · [LinkedIn](https://www.linkedin.com/in/iremnur-yildiz/)
 
 ---
 
