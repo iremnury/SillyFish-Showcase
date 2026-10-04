@@ -153,25 +153,31 @@ The environment includes layers such as:
 ### Gameplay
 
 <p align="center">
-  <img src="screenshots/gameplay.png" alt="Silly Fish Gameplay" width="800">
+  <img src="screenshots/IMG_8961.PNG" alt="Silly Fish Gameplay" width="800">
 </p>
 
 ### Pufferfish Interaction
 
 <p align="center">
-  <img src="screenshots/pufferfish.png" alt="Pufferfish Interaction" width="800">
+  <img src="screenshots/IMG_8966.PNG" alt="Pufferfish Interaction" width="800">
 </p>
 
 ### Seashell Slicing
 
 <p align="center">
-  <img src="screenshots/seashell-slicing.png" alt="Seashell Slicing" width="800">
+  <img src="screenshots/IMG_8967.PNG" alt="Seashell Slicing" width="800">
+</p>
+
+### Jellyfish Shock Effect
+
+<p align="center">
+  <img src="screenshots/IMG_8968.PNG" alt="Jellyfish Shock Effect" width="800">
 </p>
 
 ### Game Over
 
 <p align="center">
-  <img src="screenshots/game-over.png" alt="Game Over" width="800">
+  <img src="screenshots/IMG_8978.PNG" alt="Game Over" width="800">
 </p>
 
 ---
