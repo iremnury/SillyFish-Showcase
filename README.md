@@ -150,10 +150,10 @@ The environment includes layers such as:
 
 ## 📸 Screenshots
 
-### Gameplay
+### Main Menu
 
 <p align="center">
-  <img src="screenshots/IMG_8961.PNG" alt="Silly Fish Gameplay" width="800">
+  <img src="screenshots/IMG_8961.PNG" alt="Silly Fish Main Menu" width="800">
 </p>
 
 ### Pufferfish Interaction
@@ -298,20 +298,28 @@ The main development repository is private.
 
 This repository is intended as a **public project showcase** containing gameplay footage, screenshots, technical information, and development highlights.
 
-The complete source code, Unity scenes, prefabs, and original project assets are not included in this repository.
-
-Source access may be provided privately for technical review when appropriate.
+The complete source code, Unity scenes, prefabs, and original source art files are not included in this repository.
 
 ---
 
-## 👩‍💻 Developer
+## Development
 
 **İremnur Yıldız**  
+Game Development, Programming & Unity Implementation  
 Computer Engineering Student  
-Boğaziçi University
+Boğaziçi University  
 
 [GitHub](https://github.com/iremnury) · [LinkedIn](https://www.linkedin.com/in/iremnur-yildiz/)
 
+## Art & Visual Assets
+
+**Aslı Özdemir**  
+2D Artist & Animator  
+
+[Portfolio](https://vgen.co/asllly) · [Instagram](https://www.instagram.com/aslll.y/)
+
 ---
 
-© 2026 İremnur Yıldız. All rights reserved.
+Game development and programming © 2026 İremnur Yıldız.  
+Original artwork and visual assets © 2026 Aslı Özdemir.  
+All rights reserved by their respective creators.
